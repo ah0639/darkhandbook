@@ -1,7 +1,7 @@
 # 黑手册(DarkHandBook)
 Update by evilcos, for DarkHandBook.io
 
-Blockchain dark forest selfguard handbook<br>
+ dark forest selfguard handbook<br>
 *Master these, master the security of your cryptocurrency.<br>*
 
 :fire:Website: https://darkhandbook.io/<br>
